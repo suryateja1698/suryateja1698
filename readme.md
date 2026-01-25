@@ -4,7 +4,7 @@
 Backend engineer passionate about building **scalable, high-performance systems**.  
 I primarily work with **Golang**, distributed systems, and backend infrastructure.
 
-- 🚀 Backend & Systems Engineer  
+- 🚀 Backend Engineer  
 - 🧠 Interested in **performance, concurrency, caching, and scalability**
 - ⚽ Football fan (🤍)
 - 🛠 Love writing clean, testable, production-ready code
