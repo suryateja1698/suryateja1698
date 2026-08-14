@@ -15,7 +15,6 @@ I primarily work with **Golang**, distributed systems, and backend infrastructur
 
 ### Languages
 - Go (Golang)
-- SQL
 - Ruby (Rails)
 
 ### Backend & Databases
