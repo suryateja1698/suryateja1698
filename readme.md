@@ -31,6 +31,7 @@ I primarily work with **Golang**, distributed systems, and backend infrastructur
 - Caching strategies
 - Concurrency & Goroutines
 - Message queues
+- Logging and Monitoring
 
 ### Cloud & DevOps
 - AWS (Cloudwatch, State machines, Step Functions, S3)
