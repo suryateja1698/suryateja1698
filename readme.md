@@ -33,7 +33,7 @@ I primarily work with **Golang**, distributed systems, and backend infrastructur
 - Message queues
 
 ### Cloud & DevOps
-- AWS (S3, basics)
+- AWS (Cloudwatch, State machines, Step Functions, S3)
 - Docker
 - CI/CD
 
