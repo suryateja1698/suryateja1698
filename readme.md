@@ -4,7 +4,7 @@
 Backend engineer passionate about building **scalable, high-performance systems**.  
 I primarily work with **Golang**, distributed systems, and backend infrastructure.
 
-- 🚀 Backend Engineer  
+- 🚀 Backend Engineer
 - 🧠 Interested in **performance, concurrency, caching, and scalability**
 - ⚽ Football fan (🤍)
 - 🛠 Love writing clean, testable, production-ready code
@@ -34,10 +34,14 @@ I primarily work with **Golang**, distributed systems, and backend infrastructur
 - Logging and Monitoring
 
 ### Cloud & DevOps
-- AWS (Cloudwatch, State machines, Step Functions, S3)
+- AWS (CloudWatch, State Machines, Step Functions, S3)
 - Docker
 - CI/CD
 
 ---
 
+## 💻 Languages I Use
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surateja1698&layout=compact&theme=transparent)
+
+---
