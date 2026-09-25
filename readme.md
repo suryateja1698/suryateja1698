@@ -40,8 +40,3 @@ I primarily work with **Golang**, distributed systems, and backend infrastructur
 
 ---
 
-## 💻 Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surateja1698&layout=donut&langs_count=8&theme=transparent)
-
----
